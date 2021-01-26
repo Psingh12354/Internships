@@ -2,8 +2,8 @@
 
 ### Internship
 
-![](https://github.com/Psingh12354/Internships/blob/main/internship_certificate.pdf)
+- [](https://github.com/Psingh12354/Internships/blob/main/internship_certificate.pdf)
 
-![](https://github.com/Psingh12354/Internships/blob/main/GoldmanSach.pdf)
+- [](https://github.com/Psingh12354/Internships/blob/main/GoldmanSach.pdf)
 
-![](https://github.com/Psingh12354/Internships/blob/main/Microsoft%20Virtual%20Internship.pdf)
+- [](https://github.com/Psingh12354/Internships/blob/main/Microsoft%20Virtual%20Internship.pdf)
